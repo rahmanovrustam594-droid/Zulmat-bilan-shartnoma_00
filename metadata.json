@@ -1,0 +1,6 @@
+{
+  "name": "Zulmat Shartnomasi",
+  "description": "Hardcore bio-gotik survival horror, nekro-moliya (Oliy Zom qarzi), Blood Con bazasini mudofaa qilish va okult-kodeks oʻyini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
